@@ -7,11 +7,12 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "leaflet": "0.7.7",
-        "react": "15.4.1",
+        "leaflet": "^0.7.7",
+        "prop-types": "^15.6.1",
+        "react": "^15.4.1",
         "react-addons-shallow-compare": "15.4.1",
-        "react-dom": "15.4.1",
-        "react-leaflet": "0.11.7",
+        "react-dom": "^15.4.1",
+        "react-leaflet": "^0.11.7",
         "react-leaflet-control": "1.2.0"
     },
     "devDependencies": {
